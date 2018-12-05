@@ -1,0 +1,13 @@
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Guess-The-Word.exe.config
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Guess-The-Word.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Guess-The-Word.pdb
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess-The-Word.csprojResolveAssemblyReference.cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess_The_Word.Game.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess_The_Word.Properties.Resources.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess-The-Word.csproj.GenerateResource.Cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess-The-Word.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess-The-Word.pdb
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\obj\Debug\Guess_The_Word.Config.resources
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Guess-The-Word\Guess-The-Word\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
